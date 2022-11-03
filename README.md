@@ -7,10 +7,10 @@ As a part of my undergraduate dissertation, I decided to work on Epidemic Modell
 
 
 ![178925106-eb79ea4e-c57d-4933-97b3-7a8a5226e977](https://user-images.githubusercontent.com/65423670/179341239-451700ce-0583-41a3-a0c1-c954229fce90.png)
-$R_0$ < 1
+<br> $R_0$ < 1
 
 ![178925116-0f1b407a-dcae-4adb-98ff-26af2be9a613](https://user-images.githubusercontent.com/65423670/179341242-6870074a-3570-4076-8b39-38645f405943.png)
-$R_0$ > 1
+<br> $R_0$ > 1
 
 ![178925119-bb64fbd5-b078-4634-a648-32f63bb42623](https://user-images.githubusercontent.com/65423670/179341243-79a0655a-d845-44dd-acde-d7d29ede918c.png)
-$R_0$ = 1
+<br> $R_0$ = 1
